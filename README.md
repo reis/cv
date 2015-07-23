@@ -81,7 +81,7 @@ I am now looking for new challenges and opportunities that allow me to learn new
 
 ## Volunteer
 
-  * **Israel and Palestine:** Sports lessons and recreation activities, gardening for children in summer camps.
+  * **Israel and Palestine:** Gardening, sports lessons and recreation activities for children in summer camps.
   * **Ireland:** Sports lessons and recreation activities for children in a community center.
   * **Cananéia, Brazil:** Logistic support for medical assistance and sports lessons and recreation activities for children in risky areas.
 
