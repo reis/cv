@@ -88,6 +88,6 @@ I am now looking for new challenges and opportunities that allow me to learn new
 ## Contact
 
  * Email: andre.reis@gmail.com
- * Twitter: mrkings
- * Github: github.com/reis
+ * Twitter: @MrKings
+ * Github: http://github.com/reis
  * Linkedin: http://www.linkedin.com/in/andreleitereis
