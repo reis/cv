@@ -1,5 +1,5 @@
-André Leite Reis
-================
+André Reis
+==========
 
 Brazilian Bachelor in Computer Science, Web Developer, Data Analyst and Database Specialist living in São Paulo, Brazil.
 
