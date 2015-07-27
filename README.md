@@ -5,7 +5,7 @@ Welcome to my CV Folder!
 
 Here you can find my CV in several formats.
 
-If your are not sure about which file is better for you [click here for the PDF version](https://github.com/reis/cv/blob/master/cv.pdf).
+If you are not sure about which file is better for you [click here for the PDF version](https://github.com/reis/cv/blob/master/cv.pdf).
 
 If you know SQL [click here](https://github.com/reis/cv/blob/master/cv.sql).
 
