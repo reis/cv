@@ -1,3 +1,28 @@
+CV Folder
+=========
+
+Welcome to my CV Folder!
+
+Here you can find my CV in several formats.
+
+If your are not sure about which file is better for you [click here for the PDF version](https://github.com/reis/cv/blob/master/cv.pdf).
+
+If you know SQL [click here](https://github.com/reis/cv/blob/master/cv.sql).
+
+Right here below you find a README summarized version.
+
+Keep contact if you have any doubt about it.
+
+Thank you!
+
+André
+
+ * andre . reis @ gmail . com
+ * http://www.linkedin.com/in/andreleitereis
+
+
+----
+
 André Reis
 ==========
 
@@ -84,10 +109,3 @@ I am now looking for new challenges and opportunities that allow me to learn new
   * **Israel and Palestine:** Gardening, sports lessons and recreation activities for children in summer camps.
   * **Ireland:** Sports lessons and recreation activities for children in a community center.
   * **Cananéia, Brazil:** Logistic support for medical assistance and sports lessons and recreation activities for children in risky areas.
-
-## Contact
-
- * Email: andre.reis@gmail.com
- * Twitter: @MrKings
- * Github: http://github.com/reis
- * Linkedin: http://www.linkedin.com/in/andreleitereis
