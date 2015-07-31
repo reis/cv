@@ -1,11 +1,9 @@
 ﻿ANDRÉ LEITE REIS
 ================
 
-  São Paulo, Brazil
-  
-  andre.reis@gmail.com
-  
-  Phone: +55 11 99328-9258
+  * São Paulo, Brazil
+  * andre.reis@gmail.com
+  * Phone: +55 11 99328-9258
 
 ##Summary
 
