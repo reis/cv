@@ -29,8 +29,11 @@ Telium Jul 2006 - Present
 Senior Software Developer
 
 Main Technologies: Linux, PHP, Python, JS, PostgreSQL, MySQL, MongoDB, Git;
+
 My main role here is team leader on system analysis, writing code, testing and deploying process. I write a lot of code everyday but also attend to meetings with internal clients and lead daily stand up meetings with the all developers.
+
 Another role of mine is data scientist, analyst and consultant for the main board of the company generating several reports, spreadsheets and dashboards.
+
 I am also the PostgreSQL administrator besides the sysadmins team being responsible for the server dimensioning, tablespaces structure, performance, tuning and migrations.
 
 Projects:
