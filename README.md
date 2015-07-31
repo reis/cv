@@ -1,7 +1,7 @@
 CV Folder
 =========
 
-Welcome to my CV Folder!
+Welcome to my CV folder!
 
 Here you can find my CV in several formats.
 
