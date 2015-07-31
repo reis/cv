@@ -2,7 +2,9 @@
 ================
 
   São Paulo, Brazil
+  
   andre.reis@gmail.com
+  
   Phone: +55 11 99328-9258
 
 ##Summary
@@ -23,14 +25,17 @@ Data Processing Technician at Escola Técnica Santo Inácio, Porto Alegre, Brazi
 ##Experience
 
 ###Telium Jul 2006 - Present
-###Senior Software Developer
+####Senior Software Developer
 
-Main Technologies: Linux, PHP, Python, JS, PostgreSQL, MySQL, MongoDB, Git;
+**Main Technologies:** Linux, PHP, Python, JS, PostgreSQL, MySQL, MongoDB, Git;
+
 My main role here is team leader on system analysis, writing code, testing and deploying process. I write a lot of code everyday but also attend to meetings with internal clients and lead daily stand up meetings with the all developers.
+
 Another role of mine is data scientist, analyst and consultant for the main board of the company generating several reports, spreadsheets and dashboards.
+
 I am also the PostgreSQL administrator besides the sysadmins team being responsible for the server dimensioning, tablespaces structure, performance, tuning and migrations.
 
-** Projects: **
+**Projects:**
   * Databases migrations changing encoding and PostgreSQL versions.
   * Customer Control Panel (v1 CodeIgniter and v2 Laravel/Eloquent/Bootstrap).
   * Sales Pipeline (v1 Code Igniter, PL/pgSQL, v2 Laravel/Eloquent/Bootstrap).
@@ -46,23 +51,27 @@ I am also the PostgreSQL administrator besides the sysadmins team being responsi
 In my spare time I like to study about programming languages such as Java, Ruby, Node.js, Python for data science and R.
 
 ###IFX Dec 2000 - Jun 2006
-###Software Developer
+####Software Developer
 
-Main Technologies: Linux, PHP, PostgreSQL, Oracle, MySQL and MS SQL;
+**Main Technologies:** Linux, PHP, PostgreSQL, Oracle, MySQL and MS SQL;
+
 Member of a team responsible to design and develop the intranet for the whole company over latin america. It had to be a multi language, region with a complex permission system. It was also divided in modules and I was responsible for trouble tickets. Among other activities and projects, I attended a project to develop a billing system to charge recurrent services applying several business rules.
 
 ###Conex Feb 1997 - Nov 2000
-###Junior Developer
+####Junior Developer
 
-Main Technologies: Visual Basic, ASP, MS SQL, Windows Server, IIS;
+**Main Technologies:** Visual Basic, ASP, MS SQL, Windows Server, IIS;
+
 Dynamic websites development and web server administration.
 
 ##Skills Base
 
-Operating System: Linux (Arch, Debian, Ubuntu, CentOS, Fedora), Windows and OSX;
+**Operating System:** Linux (Arch, Debian, Ubuntu, CentOS, Fedora), Windows and OSX;
 Networkings: TCP/IP protocol suite;
-Programming Languages: PHP, Python, JavaScript, plus some experience with Ruby and Java;
-Data Science: Strong SQL, PL/pgSQL, spreadsheets, plus some experiences with R;
+
+**Programming Languages:** PHP, Python, JavaScript, plus some experience with Ruby and Java;
+
+**Data Science:** Strong SQL, PL/pgSQL, spreadsheets, plus some experiences with R;
 Virtualization: VirtualBox, VMWare, Xen, Cloudstack, Vagrant, PuPHPet;
 
 ##Languages
