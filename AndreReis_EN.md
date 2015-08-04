@@ -3,7 +3,8 @@
 
   * São Paulo, Brazil
   * andre.reis@gmail.com
-  * Phone: +55 11 99328-9258
+  * Phone: +44 020 3290-REIS
+                   3290-7347
 
 ##Summary
 
