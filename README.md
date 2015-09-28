@@ -19,7 +19,7 @@ Thank you!
 
 André
 
- * andre . reis æt gmail . com
+ * andre . reis -> gmail . com
  * http://www.linkedin.com/in/andreleitereis
 
 ----
