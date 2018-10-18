@@ -76,21 +76,21 @@
 ## :mortar_board: Education
 
 - **BSc in Computer Science**
-    - **Universidade Paulista UNIP (PUC-RS)**
-        - December 2004
+    - **Universidade Paulista - UNIP**
+        - 2001 - 2004
         - São Paulo, Brazil
-    - **PUC-RS**
-        - December 2000
+    - **Pontifícia Universidade Católica - PUCRS**
+        - 1999 - 2000
         - Porto Alegre, Brazil
 
 - **Computer Networks Technician**
-    - **Universidade Federal do Rio Grande do Sul (UFRGS)**
-        - December 1998
+    - **Universidade Federal do Rio Grande do Sul - UFRGS**
+        - 1997 - 1998
         - Porto Alegre, Brazil
 
 - **Data Processing Technician**
     - **Escola Técnica Santo Inácio**
-        - December 1996
+        - 1993 - 1996
         - Porto Alegre, Brazil
 
 ## :mega: Languages

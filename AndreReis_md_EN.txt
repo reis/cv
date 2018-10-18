@@ -1,5 +1,5 @@
-👤 André Leite Reis
-===================
+👤 André Leite Reis {#-andre-leite-reis}
+==================
 
 -   London, England
 -   Email: [andre.reis\@gmail.com](andre.reis@gmail.com)
@@ -8,8 +8,8 @@
     [linkedin.com/in/andreleitereis](http://www.linkedin.com/in/andreleitereis)
 -   Github: [github.com/reis](http://www.github.com/reis)
 
-📃 Summary
-----------
+📃 Summary {#-summary}
+---------
 
 -   BSc in Computer Science, having expertise in software development,
     data analysis and databases.
@@ -20,8 +20,8 @@
     center services, VOIP, telecomunications, higher education and
     research market.
 
-💪 Skills Base
---------------
+💪 Skills Base {#-skills-base}
+-------------
 
 -   **Operating Systems**: Linux (Arch, Debian, Ubuntu, CentOS, Fedora),
     Windows and OSX;
@@ -32,8 +32,8 @@
 -   **Virtualization**: VirtualBox, VMWare, Xen, Cloudstack, Docker,
     Vagrant;
 
-🏦 Experience
--------------
+🏦 Experience {#-experience}
+------------
 
 -   **Software Developer @ Queen Mary University of London - UK** 💂
 
@@ -116,39 +116,39 @@
     -   Technologies:
         -   *Visual Basic, ASP, MS SQL, Windows Server, IIS*
 
-🎓 Education
-------------
+🎓 Education {#-education}
+-----------
 
 -   **BSc in Computer Science**
 
-    -   **Universidade Paulista UNIP (PUC-RS)**
-        -   December 2004
+    -   **Universidade Paulista - UNIP**
+        -   2001 - 2004
         -   São Paulo, Brazil
-    -   **PUC-RS**
-        -   December 2000
+    -   **Pontifícia Universidade Católica - PUCRS**
+        -   1999 - 2000
         -   Porto Alegre, Brazil
 
 -   **Computer Networks Technician**
 
-    -   **Universidade Federal do Rio Grande do Sul (UFRGS)**
-        -   December 1998
+    -   **Universidade Federal do Rio Grande do Sul - UFRGS**
+        -   1997 - 1998
         -   Porto Alegre, Brazil
 
 -   **Data Processing Technician**
 
     -   **Escola Técnica Santo Inácio**
-        -   December 1996
+        -   1993 - 1996
         -   Porto Alegre, Brazil
 
-📣 Languages
-------------
+📣 Languages {#-languages}
+-----------
 
 -   **Portuguese**: Native
 -   **English**: Fluent
 -   **Spanish**: Basic
 
-📘 Additional Training
-----------------------
+📘 Additional Training {#-additional-training}
+---------------------
 
 -   **Java with Struts2**: Pluralsight
 -   **ITIL**: ITIL Foundations (ITXL)
@@ -160,8 +160,8 @@
 -   **MS SQL**: MS SQL Server Administrator (Microsoft Education
     Partner)
 
-✋ Volunteering
----------------
+✋ Volunteering {#-volunteering}
+--------------
 
 -   **Half Marathon in East London**: Raised funds for multi-ethinical
     youth club in East London
