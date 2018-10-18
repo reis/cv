@@ -3,18 +3,15 @@ CV Folder
 
 Welcome to my CV folder!
 
-Here you can find my CV in several formats.
+Here you can find my CV in several formats like:
 
-If you are not sure about which file is better for you look for the PDF files.
-
-  * [Click here to view the PDF version](https://github.com/reis/cv/blob/master/AndreReis_md_EN.pdf)
-  * [Click here to download the PDF version](https://github.com/reis/cv/raw/master/AndreReis_md_EN.pdf)
+  * [Markdown](AndreReis_md_EN.md)
+  * [PDF](https://github.com/reis/cv/blob/master/AndreReis_md_EN.pdf)
+  * [txt](https://github.com/reis/cv/blob/master/AndreReis_md_EN.txt)
 
 Feel free to browse all the other files, click and download them.
 
-Keep contact if you have any doubt about it.
-
-Thank you!
+Cheers!
 
 André
 
