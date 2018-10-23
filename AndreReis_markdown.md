@@ -17,92 +17,91 @@
 - **Operating Systems**: _Linux (Arch, Debian, Ubuntu, CentOS, Fedora), Windows_ and _OSX_;
 - **Networks**: Internet suite, Sockets, APIs, Webservices;
 - **Programming Languages**: _PHP, Python, Shell Script, Java, JavaScript_;
-- **Data Science**: _SQL, PL/pgSQL, Python_ and _R_;
+- **Databases and Data Science**: _PostgreSQL, Oracle, MS-SQL, PL/pgSQL, Python_ and _R_;
 - **Virtualization**: _VirtualBox, VMWare, Xen, Cloudstack, Docker, Vagrant_;
 
 ## :bank: Experience
 
 - **Software Developer @ Queen Mary University of London - UK** :guardsman:
-    - November 2015 - Present
-    - Technologies: 
-        - _Java, PHP, Python, Shell Script, Linux, Windows, Docker, RaspberryPi_
-    - Summary: 
-        - As a software developer my main activities are... 
-            - code apps to sync and integrate different systems, databases, _APIs_ 
-            - full-stack development of intranets, websites and web based systems coding at the front and back-end
-            - performance tunning of database views and queries
-    - Projects:
-        - Joint development of a system to manage the student-tutor history with the _University of Loughborough_ using _PHP_ and a home-made _MVC_ framework
-        - Data synchronization between _Research Grants Management System_ and the _Financial_ using _APIs_
-        - Research Grants Managing System using _PHP_ and _Zend Framework_
-        - _Java_ tool to execute databases queries in the command line based on _XML_ catalog
-        - _RaspberryPi_ with a RF Card Reader to collect attendance of NHS program students in offline (or almost) locations (_Python_ and _Linux_ admin issues)
-        - Maintenance to a _PHP Zend Framework_ intranet fixing bugs and creating new functions and reports
-        - Sync scripts to collect and update data between different systems reading and writing a wide range of formats (_XML, JSON, web services, CSV_, fixed length format files)
-        - Migrate websites from an external datacenter to an internal _Docker_ environment
-        - Optimize database views (_PostgreSQL, Oracle_ and _MSSQL_)
-
+  - November 2015 - Present
+  - Technologies:
+    - _Java, PHP, Python, Shell Script, Linux, Windows, Docker, RaspberryPi_
+  - Summary:
+    - As a software developer my main activities are...
+      - code apps to sync and integrate different systems, databases, _APIs_
+      - full-stack development of intranets, websites and web based systems coding at the front and back-end
+      - performance tunning of database views and queries
+  - Projects:
+    - Joint development of a system to manage the student-tutor history with the _University of Loughborough_ using _PHP_ and a home-made _MVC_       framework
+    - Data synchronization between _Research Grants Management System_ and the _Financial_ using _APIs_
+    - Research Grants Managing System using _PHP_ and _Zend Framework_
+    - _Java_ tool to execute databases queries in the command line based on _XML_ catalog
+    - _RaspberryPi_ with a RF Card Reader to collect attendance of NHS program students in offline (or almost) locations (_Python_ and _Linux_       admin issues)
+    - Maintenance to a _PHP Zend Framework_ intranet fixing bugs and creating new functions and reports
+    - Sync scripts to collect and update data between different systems reading and writing a wide range of formats (_XML, JSON, web services      CSV_, fixed length format files)
+    - Migrate websites from an external datacenter to an internal _Docker_ environment
+    - Optimize database views (_PostgreSQL, Oracle_ and _MS-SQL_)
 
 - **Lead Developer @ Telium Networks - Brazil**
-    - July 2016 - August 2015
-    - Technologies: 
-        - _Linux, PHP, Python, JS, PostgreSQL, MySQL, MongoDB, Git_
-    - Summary:
-        - I was the lead developer on a team of 4 developers doing... 
-            - system analysis, coding, testing, deploying
-            - the management of our infrastructure of servers, network and databases
-            - the interface between internal clients, the developers and the board of the company.
-    - Projects:
-        - Databases migrations changing encoding and _PostgreSQL_ versions.
-        - Customer Control Panel (_CodeIgniter_ and _Laravel_).
-        - Sales Pipeline (_CodeIgniter_ and _Laravel_).
-        - Sales activities control (_CodeIgniter_).
-        - Incidents Managing System for Contact Center (_Symfony_).
-        - Automation of services life cycle (_PHP_).
-        - Updates on Billing System (PHP with Mojavi and _CodeIgniter_).
-        - DNS database modeling and migration from a legacy system.
-        - Integration of Billing system with proprietary ERP _Protheus_.
-        - Dashboards, reports and alerts to the board.
-        - Several migration of DNS, web and email servers.
+  - July 2016 - August 2015
+  - Technologies:
+    - _Linux, PHP, Python, JS, PostgreSQL, MySQL, MongoDB, Git_
+  - Summary:
+    - I was the lead developer on a team of 4 developers doing... 
+      - system analysis, coding, testing, deploying
+      - the management of our infrastructure of servers, network and databases
+      - the interface between internal clients, the developers and the board of the company.
+  - Projects:
+    - Databases migrations changing encoding and _PostgreSQL_ versions.
+    - Customer Control Panel (_CodeIgniter_ and _Laravel_).
+    - Sales Pipeline (_CodeIgniter_ and _Laravel_).
+    - Sales activities control (_CodeIgniter_).
+    - Incidents Managing System for Contact Center (_Symfony_).
+    - Automation of services life cycle (_PHP_).
+    - Updates on Billing System (PHP with Mojavi and _CodeIgniter_).
+    - DNS database modeling and migration from a legacy system.
+    - Integration of Billing system with proprietary ERP _Protheus_.
+    - Dashboards, reports and alerts to the board.
+    - Several migration of DNS, web and email servers.
 
 - **Software Developer @ IFX Networks - Brazil**
-    - December 2000 - June 2006
-    - Technologies: 
-        - _Linux, PHP, PostgreSQL, Oracle, MySQL and MSSQL_
-    - Summary:
-        - Responsible for the design and development of..
-            - the company intranet to be used over Latin America 
-            - Helpdesk Tickets Management System 
-            - Billing system to charge recurrent services and provide reports to finance team 
+  - December 2000 - June 2006
+  - Technologies:
+    - _Linux, PHP, PostgreSQL, Oracle, MySQL and MS-SQL_
+  - Summary:
+    - Responsible for the design and development of...
+      - the company intranet to be used over Latin America
+      - Help desk Tickets Management System
+      - Billing system to charge recurrent services and provide reports to finance team 
 
 - **Junior Developer @ Conex Internet Provider - Brazil**
-    - February 1997 - November 2000
-    - Technologies: 
-        - _Visual Basic, ASP, MS SQL, Windows Server, IIS_
-    - Summary:
-        - Responsible for...
-            - the development websites that needed some dynamic behaviour
-            - web-servers adminstration
+  - February 1997 - November 2000
+  - Technologies:
+    - _Visual Basic, ASP, MS SQL, Windows Server, IIS_
+  - Summary:
+    - Responsible for...
+      - the development websites that needed some dynamic behaviour
+      - web-servers adminstration
 
 ## :mortar_board: Education
 
 - **BSc in Computer Science**
-    - **Universidade Paulista - UNIP**
-        - 2001 - 2004
-        - São Paulo, Brazil
-    - **Pontifícia Universidade Católica - PUCRS**
-        - 1999 - 2000
-        - Porto Alegre, Brazil
+  - **Universidade Paulista - UNIP**
+    - 2001 - 2004
+    - São Paulo, Brazil
+  - **Pontifícia Universidade Católica - PUCRS**
+    - 1999 - 2000
+    - Porto Alegre, Brazil
 
 - **Computer Networks Technician**
-    - **Universidade Federal do Rio Grande do Sul - UFRGS**
-        - 1997 - 1998
-        - Porto Alegre, Brazil
+  - **Universidade Federal do Rio Grande do Sul - UFRGS**
+    - 1997 - 1998
+    - Porto Alegre, Brazil
 
 - **Data Processing Technician**
-    - **Escola Técnica Santo Inácio**
-        - 1993 - 1996
-        - Porto Alegre, Brazil
+  - **Escola Técnica Santo Inácio**
+    - 1993 - 1996
+    - Porto Alegre, Brazil
 
 ## :mega: Languages
 

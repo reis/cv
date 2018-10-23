@@ -1,59 +1,39 @@
-\x
-#Expanded display is on.
-
-SELECT * FROM personal_data;
+SELECT name, phone, email, linkedin, github FROM personal_data;
 
 /*-[ RECORD 1 ]----------------------------------------
  name     | ANDRÉ LEITE REIS
- phone    | +55 (11) 9 9328-9258
+ phone    | +44 07482 101626
  email    | andre.reis@gmail.com
  linkedin | http://www.linkedin.com/in/andreleitereis
  github   | http://www.github.com/reis
+ summary  | - BSc in Computer Science, having expertise in software development, data 
+          | analysis and databases.
+          | - 20+ years of professional experience in IT working in different industries, 
+          | using different methodologies and technologies.
+          | - Experienced in business operations like Billing, CRM, sales pipeline, 
+          | contact center management, e-commerce, provisioning data center services, 
+          | VoIP, telecommunications, higher education and research market.
 */
 
-SELECT * FROM next_job;
-/*-[ RECORD 1 ]-----------------------------------------------
-objective | Developer, database specialist and data scientist.
+SELECT topic, description FROM skills;
+/*        Topic                              Description
+---+-----------------------+---------------------------------------------------
+ 1 | Operating Systems     | Linux (Arch, Debian, Ubuntu, CentOS, Fedora), 
+   |                       | Windows and OSX;
+ 2 | Networks              | Internet suite, Sockets, APIs, Webservices;
+ 3 | Programming Languages | PHP, Python, Shell Script, Java, JavaScript;
+ 4 | Data Science          | SQL, PL/pgSQL, Python_ and _R_;
+ 5 | Virtualization        | VirtualBox, VMWare, Xen, Cloudstack, Docker, 
+   |                       | Vagrant;
 */
 
-\x
-#Expanded display is off.
-
-SELECT * FROM who_am_i;
-/*                                                          summary
----+---------------------------------------------------------------------------------------------------------------------------------------
- 1 | Brazilian Bachelor in Computer Science, Web Developer, Data Analyst and Database Specialist living in São Paulo, Brazil.
- 2 | With 19 years of professional experience in IT working with software development, databases admnistration and data analysis.
- 3 | Experienced in business operations like Billing, CRM, sales pipeline, contact center, e-commerce, provisioning data center services and ITIL.
- 4 | Currently I am working at Telium Networks on IT team. I am the leader of development team and the most of my time I am automating tasks using PHP, pl/pgSQL, GIT and deploying on cloud servers. But sometimes I work with Python, shell script, R and other languages.
- 5 | I am now looking for new challenges and opportunities that allow me to learn new technologies and work with new people.
-*/
-
-SELECT * FROM what_i_know;
-/*                                                    knowledge
----+--------------------------------------------------------------------------------------------------------------------------
- 1 | Web Development with object oriented languages PHP (plain, Symfony, CodeIgniter, Laravel, Lumen), Python and Shell Script
- 2 | LAMP administration
- 3 | PostgreSQL specialist: Modeling, maintenance, migration, tuning databases
- 4 | Data Scientist using SQL, PL/pgSQL, PL/TCL, R and Python
- 5 | Provisioning and deploying Cloud services, Cloudstack, Vagrant, PuPHPet
- 6 | Automation of data center services (email, web, etc) life cycles 
- 7 | ETL Solutions, export and import files and EDI.
- 8 | Versioning code with Git and Subversion
-*/
-
-\x
-#Expanded display is on.
-
-SELECT company, start_date, end_date, position, 
-array_agg(r.description) as respons,
+SELECT company, start_date, end_date, location, position, summary,
 array_agg(p.descriction) as projects
 FROM jobs j 
 JOIN responsabilities r ON j.id = r.job_id
 JOIN projects p ON j.id = p.job_id
 GROUP BY 1, 2, 3, 4
-ORDER BY start_date DESC
-LIMIT 1;
+ORDER BY start_date DESC;
 
 /*-[ RECORD 1 ]---------------------------------------------------------------------------------------------------
 company    | Telium Networks - São Paulo
@@ -73,19 +53,8 @@ projects   | { - Control Panel for management services (versions in CodeIgniter 
            |   - Updates on Billing System (Mojavi, Code Igniter).,
            |   - Integration of Billing system with proprietary ERP Protheus.,
            |   - Dashboards, reports and alerts to the board.,
-           |   - Several migration of database, web and e email servers.}*/
-
-SELECT company, start_date, end_date, position, 
-array_agg(r.description) as respons
-FROM jobs j 
-JOIN responsabilities r ON j.id = r.job_id
-WHERE 
-GROUP BY 1, 2, 3, 4
-ORDER BY start_date DESC
-LIMIT 1 OFFSET 1;
-
-/*
--[ RECORD 1 ]---------------------------------------------------------------------------------------------------
+           |   - Several migration of database, web and e email servers.}
+-[ RECORD 2 ]---------------------------------------------------------------------------------------------------
 company    | Telium Networks - São Paulo
 start_date | 2004-01-01
 end_date   | 2006-01-01
@@ -93,7 +62,7 @@ position   | Senior Systems Analyst
 respons    | { * Mapping business processes.,
            |   * Development an integrated corporate intranet systems for Latin America.,
            |   * Architecture design leadership and development of Billing System using PHP.}
--[ RECORD 2 ]---------------------------------------------------------------------------------------------------
+-[ RECORD 3 ]---------------------------------------------------------------------------------------------------
 company    | IFX Networks - São Paulo
 start_date | 2000-01-01
 end_date   | 2003-01-01
@@ -101,7 +70,7 @@ position   | Junior Developer  (Visual Basic, ASP, MSSQL, IIS)
 respons    | { * Development and implementation of Corporate Intranet (PHP) and Trouble Ticket System, workflow for Network Operations Center.,
            |   * Billing system maintenance, creating new processes to improve the collection activity.,
            |   * Management of database servers: Oracle, PostgreSQL and MS SQL.}                      
--[ RECORD 3 ]---------------------------------------------------------------------------------------------------
+-[ RECORD 4 ]---------------------------------------------------------------------------------------------------
 company    | Conex ISP - Porto Alegre
 start_date | 2004-01-01
 end_date   | 2006-01-01
@@ -109,9 +78,6 @@ position   | Intern
 respons    | { * Administration of webhosting and database servers  (Microsoft IIS and MS SQL Server),
            |   * Leadership on system development of webtools using ASP.}
 */
-
-\x
-#Expanded display is off.
 
 SELECT start, end, name, institution, city  FROM main_education;
 /*

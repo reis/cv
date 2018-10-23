@@ -27,9 +27,10 @@
 -   OPERATING SYSTEMS: Linux (Arch, Debian, Ubuntu, CentOS, Fedora),
     Windows and OSX;
 -   NETWORKS: Internet suite, Sockets, APIs, Webservices;
--   PROGRAMMING LANGUAGES: PHP, Python, Shell Script, Java, JavaScript,
-    plus some experience with Ruby;
--   DATA SCIENCE: Strong SQL, PL/pgSQL, Python and R;
+-   PROGRAMMING LANGUAGES: PHP, Python, Shell Script, Java,
+    JavaScript;
+-   DATABASES AND DATA SCIENCE: PostgreSQL, Oracle, MS-SQL, PL/pgSQL,
+    Python and R;
 -   VIRTUALIZATION: VirtualBox, VMWare, Xen, Cloudstack, Docker,
     Vagrant;
 
@@ -40,45 +41,42 @@
 
     -   November 2015 - Present
     -   Technologies:
-        -   _Java, PHP, Python, Shell Script, Linux, Windows, Docker,
-            RaspberryPi_
+        -   Java, PHP, Python, Shell Script, Linux, Windows, Docker,
+            RaspberryPi
     -   Summary:
         -   As a software developer my main activities are...
             -   code apps to sync and integrate different systems,
-                databases, _APIs_
+                databases, APIs
             -   full-stack development of intranets, websites and web
                 based systems coding at the front and back-end
             -   performance tunning of database views and queries
     -   Projects:
         -   Joint development of a system to manage the student-tutor
-            history with the _University of Loughborough_ using _PHP_
+            history with the University of Loughborough using PHP
             and a home-made MVC framework
-        -   Data synchronization between _Research Grants Management
-            System_ and the _Financial_ using _APIs_
-        -   Research Grants Managing System using _PHP_ and _Zend
-            Framework_
+        -   Data synchronization between Research Grants Management
+            System and the Financial using APIs
+        -   Research Grants Managing System using PHP and Zend
+            Framework
         -   Java tool to execute databases queries in the command line
             based on XML catalog
-        -   Generic Java tool to execute databases queries from a XML
-            catalog
-        -   Raspberry Pi with a RF Card Reader to collect attendance of
+        -   RaspberryPi with a RF Card Reader to collect attendance of
             NHS program students in offline (or almost) locations
             (Python and Linux admin issues)
-        -   Maintenance to a PHP Zend Framework intranet fixing bugs and
-            creating new functions and reports
+        -   Maintenance to a PHP Zend Framework intranet fixing bugs
+            and creating new functions and reports
         -   Sync scripts to collect and update data between different
             systems reading and writing a wide range of formats (XML,
-            JSON, web services, CSV, fixed length format files)
+            JSON, web services CSV, fixed length format files)
         -   Migrate websites from an external datacenter to an internal
             Docker environment
-        -   Optimize database views (PostgreSQL, Oracle and MS SQL
-            Server)
+        -   Optimize database views (PostgreSQL, Oracle and MS-SQL)
 
 -   LEAD DEVELOPER @ TELIUM NETWORKS - BRAZIL
 
     -   July 2016 - August 2015
     -   Technologies:
-        -   _Linux, PHP, Python, JS, PostgreSQL, MySQL, MongoDB, Git_
+        -   Linux, PHP, Python, JS, PostgreSQL, MySQL, MongoDB, Git
     -   Summary:
         -   I was the lead developer on a team of 4 developers doing...
             -   system analysis, coding, testing, deploying
@@ -94,9 +92,11 @@
         -   Sales activities control (CodeIgniter).
         -   Incidents Managing System for Contact Center (Symfony).
         -   Automation of services life cycle (PHP).
-        -   Updates on Billing System (PHP with Mojavi and CodeIgniter).
+        -   Updates on Billing System (PHP with Mojavi and
+            CodeIgniter).
         -   DNS database modeling and migration from a legacy system.
-        -   Integration of Billing system with proprietary ERP Protheus.
+        -   Integration of Billing system with proprietary ERP
+            Protheus.
         -   Dashboards, reports and alerts to the board.
         -   Several migration of DNS, web and email servers.
 
@@ -104,11 +104,11 @@
 
     -   December 2000 - June 2006
     -   Technologies:
-        -   _Linux, PHP, PostgreSQL, Oracle, MySQL and MSSQL_
+        -   Linux, PHP, PostgreSQL, Oracle, MySQL and MS-SQL
     -   Summary:
-        -   Responsible for the design and development of..
+        -   Responsible for the design and development of...
             -   the company intranet to be used over Latin America
-            -   Helpdesk Tickets Management System
+            -   Help desk Tickets Management System
             -   Billing system to charge recurrent services and provide
                 reports to finance team
 
@@ -116,7 +116,7 @@
 
     -   February 1997 - November 2000
     -   Technologies:
-        -   _Visual Basic, ASP, MS SQL, Windows Server, IIS_
+        -   Visual Basic, ASP, MS SQL, Windows Server, IIS
     -   Summary:
         -   Responsible for...
             -   the development websites that needed some dynamic
@@ -161,8 +161,7 @@
 -   ITIL: ITIL Foundations (ITXL)
 -   PMI: Training course PMP-PMI (Euax)
 -   AGILE: Agile Software Development (University of Sao Paulo)
--   RUBY ON RAILS: RejectCode Ruby on Rails Conference (University of
-    Sao Paulo)
+-   RUBY ON RAILS: Ruby on Rails Conference (University of Sao Paulo)
 -   JAVA: Java teaching assistant (UNIP)
 -   MS SQL: MS SQL Server Administrator (Microsoft Education Partner)
 
