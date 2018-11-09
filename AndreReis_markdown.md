@@ -1,4 +1,4 @@
-# André Leite Reis
+# 👤 André Leite Reis
 
 ![updated](https://img.shields.io/badge/updated-2018--11-green.svg) ![location](https://img.shields.io/badge/location-London,_UK-orange.svg)
 ![phone](https://img.shields.io/badge/phone-+44_074_8210_1626-blue.svg) [![email](https://img.shields.io/badge/email-andre.reis@gmail.com-red.svg)](andre.reis@gmail.com)
