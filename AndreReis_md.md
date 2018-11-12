@@ -22,12 +22,12 @@
 
 # Experience
 
-**Software Developer @ QMUL**     £     London, UK | 2015-11 to present
+**Software Developer @ QMUL** £ London, UK | 2015-11 to present
 
 - Queen Mary University of London
 - Technologies: _Java, PHP, Python, Shell Script, Linux, Windows, Docker, RaspberryPi_
 - Summary: As a software developer my main activities are:
-  - code apps to sync and integrate different systems, databases, _APIs_
+  - create interfaces to integrate different systems using shell script, Python, Java, , _APIs_
   - full-stack development of intranets, websites and web based systems coding at the front and back-end
   - performance tunning of database views and queries
 - Projects:
@@ -83,20 +83,16 @@
 
 **BSc in Computer Science**
 
-- Universidade Paulista, UNIP - Sao Paulo, Brazil
-  \hfill 2001 to-2004
-- Pontifícia Universidade Católica, PUCR - Porto Alegre, Brazil
-  1999 to 2000
+- Universidade Paulista, UNIP - Sao Paulo, Brazil £ 2001 to-2004
+- Universidade Católica, PUCRS - Porto Alegre, Brazil £ 1999 to 2000
 
 **Computer Networks Technician**
 
-- Universidade Federal do Rio Grande do Sul, UFRGS - Porto Alegre, Brazil
-  1997 to 1998
+- Universidade Federal, UFRGS - Porto Alegre, Brazil £ 1997 to 1998
 
 **Data Processing Technician**
 
-- Escola Técnica Santo Inácio - Porto_Alegre, Brazil
-  1993 to 1996
+- Escola Técnica Santo Inacio - Porto Alegre, Brazil £ 1993 to 1996
 
 # Languages
 
