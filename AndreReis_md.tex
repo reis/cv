@@ -1,26 +1,31 @@
-% LaTeX file for resume 
-% This file uses the resume document class (res.cls)
-
-\documentclass[margin]{res}
-
-\usepackage{t1enc}  % allow accents
-\usepackage[utf8]{inputenc} 
-
-\topmargin=-0.5in  % start text higher on the page
-\setlength{\textheight}{10in} % increase text height to fit resume on 1 page
-\begin{document}  
-
-\subsection{ANDRÉ LEITE REIS}
-  London, England\\
-  Email: andre.reis@gmail.com\\
-  Phone: +44 07482-101626\\
-  Linkedin: linkedin.com/in/andreleitereis\\
-  Github: github.com/reis\\
-
-\section{Summary}
+\documentclass[margin,a4paper]{res}
+\usepackage{hyperref}
+\def\tightlist{}
+\PassOptionsToClass{11pt,12pt}{article}
+\begin{document}
+{\hypertarget{andre-leite-reis}{%
+\subsection{ANDRE LEITE REIS}\label{andre-leite-reis}}
 
 \begin{itemize}
+\tightlist
+\item
+  London, England
+\item
+  Phone: +44 07482-101626
+  \item
+  Email: \href{mailto:andre.reis@gmail.com}{andre.reis@gmail.com}
+\item
+  Linkedin:
+  \href{https://linkedin.com/in/andreleitereis}{linkedin.com/in/andreleitereis}
+\item
+  Github: \href{https://github.com/reis}{github.com/reis}
+\end{itemize}
 
+\begin{itemize}
+  \hypertarget{summary}{%
+  \section{Summary}\label{summary}}
+  
+  \tightlist
 \item
   BSc in Computer Science, having expertise in software development,
   data analysis and databases.
@@ -34,10 +39,10 @@
   market.
 \end{itemize}
 
-\section{Skills Base}
-
 \begin{itemize}
-
+  \hypertarget{skills-base}{%
+  \section{Skills Base}\label{skills-base}}
+  \tightlist
 \item
   \textbf{Operating Systems}: Linux (Arch, Debian, Ubuntu, CentOS,
   Fedora), Windows and OSX;
@@ -54,43 +59,38 @@
   Vagrant;
 \end{itemize}
 
-\section{Experience}
-\begin{tabbing}
-	\hspace{2.3in}\= \hspace{1.7in}\= \kill % set up two tab positions
-	\textbf{Software Developer @ Queen Mary University of London} \>\>2015-11 to present
-\end{tabbing}
+\hypertarget{experience}{%
+\section{Experience}\label{experience}}
+
+\textbf{Software Developer @ QMUL} \hfill London, UK | 2015-11 to
+present
+
 \begin{itemize}
+\tightlist
 \item
-  London, UK
+  Queen Mary University of London
 \item
-  Technologies:
+  Technologies: \emph{Java, PHP, Python, Shell Script, Linux, Windows,
+  Docker, RaspberryPi}
 \item
-  \emph{Java, PHP, Python, Shell Script, Linux, Windows, Docker,
-  RaspberryPi}
-\item
-  Summary:
+  Summary: As a software developer my main activities are:
 
   \begin{itemize}
-  
+  \tightlist
   \item
-    As a software developer my main activities are:
-
-    \begin{itemize}
-    
-    \item
-      code apps to sync and integrate different systems, databases,
-      \emph{APIs}
-    \item
-      full-stack development of intranets, websites and web based
-      systems coding at the front and back-end
-    \item
-      performance tunning of database views and queries
-    \end{itemize}
+    create interfaces to integrate different systems using shell script,
+    Python, Java, , \emph{APIs}
+  \item
+    full-stack development of intranets, websites and web based systems
+    coding at the front and back-end
+  \item
+    performance tunning of database views and queries
   \end{itemize}
 \item
   Projects:
 
   \begin{itemize}
+  \tightlist
   \item
     Joint development of a system to manage the student-tutor history
     with the \emph{University of Loughborough} using \emph{PHP} and a
@@ -102,14 +102,15 @@
     Research Grants Managing System using \emph{PHP} and \emph{Zend
     Framework}
   \item
-    \emph{Java} tool to execute databases queries in the command line
-    based on \emph{XML} catalog
+    \emph{Java} command line to run queries based on \emph{XML} DB
+    catalog
   \item
     \emph{RaspberryPi} with a RF Card Reader to collect attendance of
-    NHS students (\emph{Python}
+    NHS program students in offline (or almost) locations (\emph{Python}
     and \emph{Linux} admin issues)
   \item
-    Maintenance to a \emph{PHP} and \emph{Zend Framework} intranet
+    Maintenance to a \emph{PHP Zend Framework} intranet fixing bugs and
+    creating new functions and reports
   \item
     Sync scripts to collect and update data between different systems
     reading and writing a wide range of formats (XML, JSON, web services
@@ -118,64 +119,54 @@
     Migrate websites from an external datacenter to an internal
     \emph{Docker} environment
   \item
-    Optimize database views (\emph{PostgreSQL, Oracle and MS-SQL})
+    Optimize database views (\emph{PostgreSQL, Oracle} and
+    \emph{MS-SQL})
   \end{itemize}
 \end{itemize}
-
-\begin{tabbing}
-\textbf{Lead Developer at Telium Networks} 2006-11 to 2015-08
-\end{tabbing}
+\pagebreak
+\textbf{Lead Developer @ Telium} \hfill Sao Paulo, Brazil | 2006-11
+to 2015-08
 
 \begin{itemize}
-
+\tightlist
 \item
-  Sao Paulo, Brazil
+  Telium Networks: Brazilian telecom specialized on corporate networks
+  and datacenter
 \item
-  Technologies:
+  Technologies: \emph{Linux, PHP, Python, JS, PostgreSQL, MySQL,
+  MongoDB, Git}
+\item
+  Summary: I was the lead developer on a team of 4 developers doing:
 
   \begin{itemize}
-  
+  \tightlist
   \item
-    \emph{Linux, PHP, Python, JS, PostgreSQL, MySQL, MongoDB, Git}
-  \end{itemize}
-\item
-  Summary:
-
-  \begin{itemize}
-  
+    system analysis, coding, testing, deploying
   \item
-    I was the lead developer on a team of 4 developers doing:
-
-    \begin{itemize}
-    
-    \item
-      system analysis, coding, testing, deploying
-    \item
-      the management of our infrastructure of servers, network and
-      databases
-    \item
-      the interface between internal clients, the developers and the
-      board of the company.
-    \end{itemize}
+    the management of our infrastructure of servers, network and
+    databases
+  \item
+    the interface between internal clients, the developers and the board
+    of the company.
   \end{itemize}
 \item
   Projects:
 
   \begin{itemize}
-  
+  \tightlist
   \item
     Databases migrations changing encoding and \emph{PostgreSQL}
     versions.
   \item
-    Customer Control Panel (\_CodeIgniter\_ and \emph{Laravel}).
+    Customer Control Panel (\emph{CodeIgniter} and \emph{Laravel}).
   \item
-    Sales Pipeline (\_CodeIgniter\_ and \emph{Laravel}).
+    Sales Pipeline (\emph{CodeIgniter} and \emph{Laravel}).
   \item
-    Sales activities control (\_CodeIgniter\_).
+    Sales activities control (\emph{CodeIgniter}).
   \item
-    Incidents Managing System for Contact Center (\_Symfony\_).
+    Incidents Managing System for Contact Center (\emph{Symfony}).
   \item
-    Automation of services life cycle (\_PHP\_).
+    Automation of services life cycle (\emph{PHP}).
   \item
     Updates on Billing System (PHP with Mojavi and \emph{CodeIgniter}).
   \item
@@ -189,96 +180,85 @@
   \end{itemize}
 \end{itemize}
 
-\textbf{Software Developer @ IFX Networks} 2000-12 to 2006-06
+\textbf{Software Developer @ IFX} \hfill Sao Paulo, Brazil | 2000-12
+to 2006-06
 
 \begin{itemize}
-
+\tightlist
 \item
-  Sao Paulo, Brazil
+  IFX Networks: a north-american telecom company that invested a lot in
+  Latin America in the early 2000's
 \item
-  Technologies:
+  Technologies: Linux, PHP, PostgreSQL, Oracle, MySQL and MS-SQL
+\item
+  Summary: I was responsible for the design and development of:
 
   \begin{itemize}
-  
+  \tightlist
   \item
-    Linux, PHP, PostgreSQL, Oracle, MySQL and MS-SQL
-  \end{itemize}
-\item
-  Summary:
-
-  \begin{itemize}
-  
+    the company intranet to be used over Latin America
   \item
-    Responsible for the design and development of:
-
-    \begin{itemize}
-    
-    \item
-      the company intranet to be used over Latin America
-    \item
-      Help desk Tickets Management System
-    \item
-      Billing system to charge recurrent services and provide reports to
-      finance team
-    \end{itemize}
+    Help desk Tickets Management System
+  \item
+    Billing system to charge recurrent services and provide reports to
+    finance team
   \end{itemize}
 \end{itemize}
 
-\textbf{Junior Developer @ Conex Internet Provider} 1997-02 to 2000-11 -
-Porto Alegre, Brazil - Technologies: - Visual Basic, ASP, MS SQL,
-Windows Server, IIS - Summary: - Responsible for:
- \begin{itemize}
- \item
- the development websites that needed some dynamic behaviour 
- \item
- web servers administration
+\textbf{Junior Developer @ Conex} \hfill Porto Alegre, Brazil | 1997-02 to 2000-11
 
-\section{Education}
+\begin{itemize}
+\tightlist
+\item
+  Conex Internet Provider: The first internet provider south Brazil
+\item
+  Technologies: Visual Basic, ASP, MS SQL, Windows Server, IIS
+\item
+  Summary: I was responsible for:
+
+  \begin{itemize}
+  \tightlist
+  \item
+    the development websites that needed some dynamic behaviour
+  \item
+    web-servers administration
+  \end{itemize}
+\end{itemize}
+\pagebreak
+
+\hypertarget{education}{%
+\section{Education}\label{education}}
 
 \textbf{BSc in Computer Science}
 
 \begin{itemize}
-
+  \tightlist
 \item
-  Universidade Paulista, UNIP - Sao Paulo, Brazil 2001 to-2004
+  Universidade Paulista, UNIP - Sao Paulo, Brazil \hfill 2001 to-2004
 \item
-  Pontifícia Universidade Católica, PUCR - Porto Alegre, Brazil 1999 to
-  2000
+  Universidade Católica, PUCRS - Porto Alegre, Brazil \hfill 1999 to 2000
 \end{itemize}
 
 \textbf{Computer Networks Technician}
 
 \begin{itemize}
-
+\tightlist
 \item
-  Universidade Federal do Rio Grande do Sul, UFRGS - Porto Alegre,
-  Brazil 1997 to 1998
+  Universidade Federal, UFRGS - Porto Alegre, Brazil \hfill 1997 to 1998
 \end{itemize}
 
 \textbf{Data Processing Technician}
 
 \begin{itemize}
-
+\tightlist
 \item
-  Escola Técnica Santo Inácio - Porto\_Alegre, Brazil 1993 to 1996
+  Escola Técnica Santo Inacio - Porto Alegre, Brazil \hfill 1993 to 1996
 \end{itemize}
 
-\section{Languages}
-
 \begin{itemize}
-
-\item
-  \textbf{Portuguese}: Native
-\item
-  \textbf{English}: Fluent
-\item
-  \textbf{Spanish}: Basic
-\end{itemize}
-
-\section{Additional Training}
-
-\begin{itemize}
-
+  \hypertarget{additional-training}{%
+  \section{Additional Training}\label{additional-training}}
+  \tightlist
 \item
   \textbf{Java with Struts2}: Pluralsight
 \item
@@ -297,10 +277,22 @@ Windows Server, IIS - Summary: - Responsible for:
   Brazil
 \end{itemize}
 
-\section{Volunteering}
+\begin{itemize}
+  \hypertarget{languages}{%
+  \section{Languages}\label{languages}}
+  \tightlist
+\item
+  \textbf{Portuguese}: Native
+\item
+  \textbf{English}: Fluent
+\item
+  \textbf{Spanish}: Basic
+\end{itemize}
 
 \begin{itemize}
-
+  \hypertarget{volunteering}{%
+  \section{Volunteering}\label{volunteering}}
+  \tightlist
 \item
   \textbf{Half Marathon in East London}: Raised funds for multi-ethnical
   youth club in East London
@@ -314,5 +306,5 @@ Windows Server, IIS - Summary: - Responsible for:
   \textbf{Medical Trip Assistant in Cananéia, Brazil}: Logistic support
   for medical assistance and recreational activities for children in
   risky areas.
-\end{itemize}
+\end{itemize}}
 \end{document}

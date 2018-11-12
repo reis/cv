@@ -1,8 +1,8 @@
 ## ANDRE LEITE REIS
 
 - London, England
-- Email: andre.reis@gmail.com
 - Phone: +44 07482-101626
+- Email: [andre.reis@gmail.com](mailto:andre.reis@gmail.com)
 - Linkedin: [linkedin.com/in/andreleitereis](https://linkedin.com/in/andreleitereis)
 - Github: [github.com/reis](https://github.com/reis)
 
@@ -94,12 +94,6 @@
 
 - Escola Técnica Santo Inacio - Porto Alegre, Brazil £ 1993 to 1996
 
-# Languages
-
-- **Portuguese**: Native
-- **English**: Fluent
-- **Spanish**: Basic
-
 # Additional Training
 
 - **Java with Struts2**: Pluralsight
@@ -109,6 +103,12 @@
 - **_Ruby on Rails_ Conference**: University of Sao Paulo, Brazil
 - **_Java_ teaching assistant**: UNIP, Brazil
 - **MS SQL Server Administrator**: Microsoft Education Partner, Brazil
+
+# Languages
+
+- **Portuguese**: Native
+- **English**: Fluent
+- **Spanish**: Basic
 
 # Volunteering
 
