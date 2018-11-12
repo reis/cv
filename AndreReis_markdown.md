@@ -1,18 +1,20 @@
-# :bust_in_silhouette: André Leite Reis
+<title>André Leite Reis</title>
+
+# André Leite Reis
 
 - London, England
-- Email: [andre.reis@gmail.com](andre.reis@gmail.com)
+- Email: andre.reis at gmail.com
 - Phone: +44 07482-101626
-- Linkedin: [linkedin.com/in/andreleitereis](http://www.linkedin.com/in/andreleitereis)
-- Github: [github.com/reis](http://www.github.com/reis)
+- Linkedin: linkedin.com/in/andreleitereis
+- Github: github.com/reis
 
-## :page_with_curl: Summary
+## Summary
 
 - BSc in Computer Science, having expertise in software development, data analysis and databases.
 - 20+ years of professional experience in IT working in different industries, using different methodologies and technologies.
 - Experienced in business operations like Billing, CRM, sales pipeline, contact center management, e-commerce, provisioning data center services, VoIP, telecommunications, higher education and research market.
 
-## :muscle: Skills Base
+## Skills Base
 
 - **Operating Systems**: _Linux (Arch, Debian, Ubuntu, CentOS, Fedora), Windows_ and _OSX_;
 - **Networks**: Internet suite, Sockets, APIs, Webservices;
@@ -20,7 +22,7 @@
 - **Databases and Data Science**: _PostgreSQL, Oracle, MS-SQL, PL/pgSQL, Python_ and _R_;
 - **Virtualization**: _VirtualBox, VMWare, Xen, Cloudstack, Docker, Vagrant_;
 
-## :bank: Experience
+## Experience
 
 - **Software Developer @ Queen Mary University of London - UK** :guardsman:
   - November 2015 - Present
@@ -41,13 +43,13 @@
     - Sync scripts to collect and update data between different systems reading and writing a wide range of formats (_XML, JSON, web services      CSV_, fixed length format files)
     - Migrate websites from an external datacenter to an internal _Docker_ environment
     - Optimize database views (_PostgreSQL, Oracle_ and _MS-SQL_)
-
+\pagebreak
 - **Lead Developer @ Telium Networks - Brazil**
   - July 2016 - August 2015
   - Technologies:
     - _Linux, PHP, Python, JS, PostgreSQL, MySQL, MongoDB, Git_
   - Summary:
-    - I was the lead developer on a team of 4 developers doing... 
+    - As the lead developer of a team of developers I did:  
       - system analysis, coding, testing, deploying
       - the management of our infrastructure of servers, network and databases
       - the interface between internal clients, the developers and the board of the company.
@@ -69,7 +71,7 @@
   - Technologies:
     - _Linux, PHP, PostgreSQL, Oracle, MySQL and MS-SQL_
   - Summary:
-    - Responsible for the design and development of...
+    - Responsible for the design and development of:
       - the company intranet to be used over Latin America
       - Help desk Tickets Management System
       - Billing system to charge recurrent services and provide reports to finance team 
@@ -79,11 +81,11 @@
   - Technologies:
     - _Visual Basic, ASP, MS SQL, Windows Server, IIS_
   - Summary:
-    - Responsible for...
-      - the development websites that needed some dynamic behaviour
-      - web-servers adminstration
-
-## :mortar_board: Education
+    - It was my first job with development and I was responsible for:
+      - the creation of websites that needed some dynamic behaviour
+      - the web servers adminstration
+\pagebreak
+## Education
 
 - **BSc in Computer Science**
   - **Universidade Paulista - UNIP**
@@ -103,13 +105,13 @@
     - 1993 - 1996
     - Porto Alegre, Brazil
 
-## :mega: Languages
+## Languages
 
 - **Portuguese**: Native
 - **English**: Fluent
 - **Spanish**: Basic
 
-## :blue_book: Additional Training
+## Additional Training
 
 - **Java with Struts2**: Pluralsight
 - **ITIL**: ITIL Foundations (ITXL)
@@ -117,11 +119,11 @@
 - **Agile**: Agile Software Development (University of Sao Paulo)
 - **Ruby on Rails**: _Ruby on Rails_ Conference (University of Sao Paulo)
 - **Java**: _Java_ teaching assistant  (UNIP)
-- **MS SQL**: MS SQL Server Administrator (Microsoft Education Partner)
+- **MS SQL**: _MS SQL Server_ Administrator (Microsoft Education Partner)
 
-## :raised_hand: Volunteering
+## Volunteering
 
-- **Half Marathon in East London**: Raised funds for multi-ethnical youth club in East London
-- **Summer Camps in Ireland**: Sports lessons and recreational activities for children in community centers.
-- **Summer Camps in Israel and Palestine**: Gardening, sports lessons and recreational activities for children in summer camps.
-- **Medical Trip Assistant in Cananéia, Brazil**: Logistic support for medical assistance and recreational activities for children in risky areas.
+- **Half Marathon in East London**: Raised funds for a multi-ethnical youth club by _ELT Baptist Church_
+- **Summer Camps in Ireland**: Sports lessons and recreational activities for children in community centers with _OM Operation Mobilization_
+- **Summer Camps in Palestine**: Gardening, sports lessons and recreational activities for children in summer camps at the _Tent of Nations_
+- **Medical Trip Assistant in Cananéia, Brazil**: Operational support to volunteer doctors and recreational activities for children in risky areas
