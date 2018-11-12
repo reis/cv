@@ -1,5 +1,3 @@
-<title>André Leite Reis</title>
-
 # André Leite Reis
 
 - London, England
@@ -43,7 +41,7 @@
     - Sync scripts to collect and update data between different systems reading and writing a wide range of formats (_XML, JSON, web services      CSV_, fixed length format files)
     - Migrate websites from an external datacenter to an internal _Docker_ environment
     - Optimize database views (_PostgreSQL, Oracle_ and _MS-SQL_)
-\pagebreak
+
 - **Lead Developer @ Telium Networks - Brazil**
   - July 2016 - August 2015
   - Technologies:
@@ -84,7 +82,7 @@
     - It was my first job with development and I was responsible for:
       - the creation of websites that needed some dynamic behaviour
       - the web servers adminstration
-\pagebreak
+
 ## Education
 
 - **BSc in Computer Science**

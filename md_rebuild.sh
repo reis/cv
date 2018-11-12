@@ -1,0 +1,1 @@
+pandoc --from=markdown+yaml_metadata_block --template layout.latex -o test.pdf AndreReis_md.md
