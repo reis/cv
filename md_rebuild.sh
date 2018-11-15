@@ -1,1 +1,0 @@
-pandoc --from=markdown --template layout.tex -o AndreReis_md.tex AndreReis_md.md

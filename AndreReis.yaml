@@ -1,0 +1,162 @@
+contact:
+    location: London, UK
+    name: ANDRE LEITE REIS
+    phone: +44 074 8210 1626
+    email: andre.reis@gmail.com
+    github: github.com/reis
+    linkedin: linkedin.com/in/andreleitereis
+    twitter: twitter.com/mrkings
+    
+summary:
+    - BS in Computer Science, having expertise in software development, data analysis and databases
+    - 20+ years of professional experience in IT working with many industries, methodologies and technologies
+    - Experienced in business operations like Billing, CRM, sales pipeline, contact center management, e-commerce, provisioning data center services, VoIP, telecommunications, higher education and research market
+
+skills:
+  Operating Systems: Linux (Arch, Debian, Ubuntu, CentOS, Fedora), Windows and OSX
+  Networks: Internet suite, Sockets, APIs, Webservices
+  Programming Languages: \LaTeX, PHP, Python, Shell Script, Java, JavaScript
+  Databases and Data Science: PostgreSQL, Oracle, MS-SQL, PL/pgSQL, Python and R
+  Virtualization: VirtualBox, VMWare, Xen, Cloudstack, Docker, Vagrant
+
+work:
+    - employer: Queen Mary University of London
+      description: A leading university with 4500 employees and more than 25000 students
+      title: Software Developer
+      location: London, UK
+      dates: November 2015 - Present
+      technologies: Java, PHP, Python, Shell Script, Linux, Windows, Docker, RaspberryPi
+      pagebreak: true
+      activities:
+          - create interfaces between systems using shell script, Python, Java, APIs
+          - full-stack development of intranets, websites
+          - performance tunning of database views and queries
+      projects:
+          - Joint development of a system to manage the student-tutor history with the University of Loughborough using PHP and a home-made MVC framework
+          - Data synchronization between Research Grants Management System and the Financial using APIs
+          - Research Grants Managing System using PHP and Zend Framework
+          - Java command line to run queries based on XML DB catalog
+          - RaspberryPi with a RF Card Reader to collect attendance of NHS program students in offline (or almost) locations (Python and Linux       admin issues)
+          - Maintenance to a PHP Zend Framework intranet fixing bugs and creating new functions and reports
+          - Sync scripts to collect and update data between different systems reading and writing a wide range of formats (XML, JSON, web services      CSV, fixed length format files)
+          - Migrate websites from an external datacenter to an internal Docker environment
+          - Optimize database views (PostgreSQL, Oracle and MS-SQL)
+    - employer: Telium Networks
+      description: Telecom company specialized on corporate networks and datacenters
+      title: Lead Developer
+      location: Sao Paulo, Brazil
+      dates: November 2006 - August 2015
+      technologies: Linux, PHP, Python, JS, PostgreSQL, MySQL, MongoDB, Git
+      activities:
+          - system analysis, coding, testing, deploying
+          - manage the infrastructure of servers, network and databases
+          - be the interface between internal clients, the board of the company and the developers
+      projects:
+          - Databases migrations and upgrades
+          - Customer Control Panel (CodeIgniter and Laravel)
+          - Sales Pipeline (CodeIgniter and Laravel)
+          - Sales activities control (CodeIgniter)
+          - Incidents Managing System for Contact Center (Symfony)
+          - Automation of services life cycle (PHP)
+          - Updates on Billing System (PHP with Mojavi and CodeIgniter)
+          - DNS database modeling and migration from a legacy system
+          - Integration of Billing system with proprietary ERP Protheus
+          - Dashboards, reports and alerts to the board.
+    - employer: IFX Networks
+      description:  Mutinational telecom company focused on Latin America
+      title: Software Developer
+      location: Sao Paulo, Brazil
+      dates: December 2000 - June 2006
+      technologies: Linux, PHP, PostgreSQL, Oracle, MySQL and MS-SQL
+      activities:
+          - create the company intranet to be used over Latin America
+          - Help desk Tickets Management System
+          - Billing system to charge recurrent services and provide reports to finance team
+      projects: null
+    - employer: Conex Internet Provider
+      description: The first internet provider in the south of Brazil
+      title: Junior Developer
+      location: Porto Alegre, Brazil
+      dates: February 1997 - November 2000
+      technologies: Visual Basic, ASP, MS SQL, Windows Server, IIS
+      activities:
+          - develop websites that needed some dynamic behaviour
+          - IIS web-servers administration
+      projects: null
+
+education:
+    BSc in Computer Science:
+      - school: Universidade Paulista, UNIP
+        location: Sao Paulo, Brazil
+        dates: 2001 - 2004
+      - school: Pontificia Universidade Catolica, PUCRS
+        location: Porto Alegre, Brazil
+        dates: 1999 - 2000
+    Computer Networks Technician:
+      - school: Universidade Federal do Rio grande Sul, UFRGS
+        location: Porto Alegre, Brazil
+        dates: 1997 - 1998
+    Data Processing Technician:
+      - school: Escola Tecnica Santo Inacio
+        location: Porto Alegre, Brazil
+        dates: 1993 - 1996
+
+training:
+    - title: Developing APIs
+      school: Mulesoft
+      year: 2018
+    - title: Java with Struts2
+      school: Pluralsight
+      year: 2015
+    - title: ITIL Foundations
+      school: ITXL, Brazil
+      year: 2014
+    - title: Training course PMP-PMI
+      school: Euax, Brazil
+      year: 2013
+    - title: Agile Software Development
+      school: University of Sao Paulo - USP, Brazil
+      year: 2008
+    - title: Ruby on Rails Conference
+      school: University of Sao Paulo - USP, Brazil
+      year: 2008
+    - title: Java teaching assistant
+      school: UNIP, Brazil
+      year: 2004
+    - title: MS SQL Server Administrator
+      school: Microsoft Education Partner, Brazil
+      year: 1999
+
+languages:
+    Portuguese: Native
+    English: Fluent
+    Spanish: Basic
+
+volunteering:
+  - title: Half Marathon
+    description: Raised funds running for a ELT youth charity in East London
+    year: 2018
+  - title: Summer Camps in Ireland
+    description: Sports and recreational activities in community centers
+    year: 2008
+  - title: Summer Camps in Israel and Palestine
+    description: Maintenance, sports and recreational activities in risky areas
+    year: 2007
+  - title: Medical Trip Assistant in Cananeia, Brazil
+    description: Logistic support and recreational activities in risky areas
+    year: 2006
+
+other interests: 'Running, walking, reading'
+
+warning: 'This file was generated. See github.com/reis/resume for source.'
+
+################################################################################
+# This resume was created using:
+# - YAML source (this file) - for the resume content
+# - LaTeX template - for presentation and layout
+# - Python script and Jinja2 (templating engine) for compiling together the
+#   YAML and LaTeX
+# - pdflatex for .tex --> .pdf
+# - GNU Make for easy compilation
+# - Vim for editing all files
+# - Git for revision control, diff, backup, branching, etc.
