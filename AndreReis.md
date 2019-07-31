@@ -3,23 +3,23 @@
 - London, UK
 - +44 074 8210 1626
 - [andre.reis@gmail.com](mailto:andre.reis@gmail.com)
-- [linkedin.com/in/andreleitereis](https://linkedin.com/in/andreleitereis)
+- [reis.github.io](http://reis.github.io)
 - [github.com/reis](https://github.com/reis)
-- [twitter.com/mrkings](https://twitter.com/mrkings)
+- [linkedin.com/in/andreleitereis](https://linkedin.com/in/andreleitereis)
 
 ## Summary
 
 - BS in Computer Science, having expertise in software development, data analysis and databases
-- 20+ years of professional experience in IT working with many industries, methodologies and technologies
-- Experienced in business operations like Billing, CRM, sales pipeline, contact center management, e-commerce, provisioning data center services, VoIP, telecommunications, higher education and research market
+- Experienced in IT working with many industries (manufacturing, telecom, education)
+- Experienced in business operations like billing, sales pipeline, contact centre management, e-commerce, services automation, VoIP, ETL
 
 ## Skills Base
 
+- Operating Systems: Linux (Arch, Debian, Ubuntu, CentOS, Fedora), Windows and OSX
+- Networks: Internet protocol, Sockets, APIs, Webservices
 - Programming Languages: \LaTeX, PHP, Python, Shell Script, Java, JavaScript
 - Databases and Data Science: PostgreSQL, Oracle, MS-SQL, PL/pgSQL, Python and R
 - Virtualization: VirtualBox, VMWare, Xen, Cloudstack, Docker, Vagrant
-- Operating Systems: Linux (Arch, Debian, Ubuntu, CentOS, Fedora), Windows and OSX
-- Networks: Internet suite, Sockets, APIs, Webservices
 
 ## Experience
 
@@ -31,18 +31,19 @@
 - **Description**: A leading university with 4500 employees and more than 25000 students
 - **Technologies**: Java, PHP, Python, Shell Script, Linux, Windows, Docker, RaspberryPi
 - **Activities**:
-  - create interfaces between systems using shell script, Python, Java, APIs
-  - full-stack development of intranets, websites
-  - performance tunning of database views and queries
+  - create interfaces between systems using shell-script, Python, Java, APIs
+  - full-stack development of an intranet and websites
+  - performance tuning of database views and queries
 - **Projects**:
+  - Data quality automation tool using Python and JDBC
   - Joint development of a system to manage the student-tutor history with the University of Loughborough using PHP and a home-made MVC framework
-  - Data synchronization between Research Grants Management System and the Financial using APIs
+  - Data synchronization between the Research Grants Management System and the Financial using APIs
   - Research Grants Managing System using PHP and Zend Framework
-  - Java command line to run queries based on XML DB catalog
-  - RaspberryPi with a RF Card Reader to collect attendance of NHS program students in offline (or almost) locations (Python and Linux       admin issues)
+  - Java app to run queries based on XML DB catalogue
+  - RaspberryPi with an RF Card Reader to collect attendance of NHS program students in offline (or almost) locations (Python and Linux       admin issues)
   - Maintenance to a PHP Zend Framework intranet fixing bugs and creating new functions and reports
-  - Sync scripts to collect and update data between different systems reading and writing a wide range of formats (XML, JSON, web services      CSV, fixed length format files)
-  - Migrate websites from an external datacenter to an internal Docker environment
+  - Sync scripts to collect and update data between different systems reading and writing a wide range of formats (XML, JSON, web services      CSV, fixed-length format files)
+  - Migrate websites from an external data centre to an internal Docker environment
   - Optimize database views (PostgreSQL, Oracle and MS-SQL)
 
 ### Lead Developer @ Telium Networks
@@ -50,7 +51,7 @@
 - November 2006 - August 2015
 - _Sao Paulo, Brazil_
 
-- **Description**: Telecom company specialized on corporate networks and datacenters
+- **Description**: Telecom company specialized in corporate networks and datacenters
 - **Technologies**: Linux, PHP, Python, JS, PostgreSQL, MySQL, MongoDB, Git
 - **Activities**:
   - system analysis, coding, testing, deploying
@@ -63,8 +64,8 @@
   - Sales activities control (CodeIgniter)
   - Incidents Managing System for Contact Center (Symfony)
   - Automation of services life cycle (PHP)
-  - Updates on Billing System (PHP with Mojavi and CodeIgniter)
-  - DNS database modeling and migration from a legacy system
+  - Updates on Billing System (PHP with OO frameworks)
+  - DNS database modelling and migration from a legacy system
   - Integration of Billing system with proprietary ERP Protheus
   - Dashboards, reports and alerts to the board.
 
@@ -73,7 +74,7 @@
 - December 2000 - June 2006
 - _Sao Paulo, Brazil_
 
-- **Description**: Mutinational telecom company focused on Latin America
+- **Description**: Multinational telecom company focused on Latin America
 - **Technologies**: Linux, PHP, PostgreSQL, Oracle, MySQL and MS-SQL
 - **Activities**:
   - create the company intranet to be used over Latin America
@@ -124,7 +125,7 @@
 
 ## Volunteering
 
-- 2018 **Half Marathon**: _Raised funds running for a ELT youth charity in East London_
-- 2008 **Summer Camps in Ireland**: _Sports and recreational activities in community centers_
+- 2018 **Half Marathon**: _Raised funds running for a charity in East London_
+- 2008 **Summer Camps in Ireland**: _Sports and recreational activities in community centres_
 - 2007 **Summer Camps in Israel and Palestine**: _Maintenance, sports and recreational activities in risky areas_
 - 2006 **Medical Trip Assistant in Cananeia, Brazil**: _Logistic support and recreational activities in risky areas_
