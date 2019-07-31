@@ -148,15 +148,10 @@ volunteering:
 
 other interests: 'Running, walking, reading'
 
-warning: 'This file was generated. See github.com/reis/resume for source.'
-
 ################################################################################
-# This resume was created using:
-# - YAML source (this file) - for the resume content
-# - LaTeX template - for presentation and layout
-# - Python script and Jinja2 (templating engine) for compiling together the
-#   YAML and LaTeX
-# - pdflatex for .tex --> .pdf
-# - GNU Make for easy compilation
-# - Vim for editing all files
-# - Git for revision control, diff, backup, branching, etc.
+# This file is the source code for all my CV formats.
+#
+# The idea is to write one simple file focused on the content and not the format
+# and then write templates to generate different formats.
+#
+# To see how this works go to my project https://github.com/reis/make-cv
