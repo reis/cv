@@ -51,7 +51,7 @@
 - November 2006 - August 2015
 - _Sao Paulo, Brazil_
 
-- **Description**: Telecom company specialized in corporate networks and datacenters
+- **Description**: Telecom company specialized in corporate networks and data centres
 - **Technologies**: Linux, PHP, Python, JS, PostgreSQL, MySQL, MongoDB, Git
 - **Activities**:
   - system analysis, coding, testing, deploying
@@ -62,7 +62,7 @@
   - Customer Control Panel (CodeIgniter and Laravel)
   - Sales Pipeline (CodeIgniter and Laravel)
   - Sales activities control (CodeIgniter)
-  - Incidents Managing System for Contact Center (Symfony)
+  - Incidents Managing System for Contact Centre (Symfony)
   - Automation of services life cycle (PHP)
   - Updates on Billing System (PHP with OO frameworks)
   - DNS database modelling and migration from a legacy system

@@ -49,7 +49,7 @@
         },
         {
             "employer": "Telium Networks",
-            "description": "Telecom company specialized in corporate networks and datacenters",
+            "description": "Telecom company specialized in corporate networks and data centres",
             "title": "Lead Developer",
             "location": "Sao Paulo, Brazil",
             "dates": "November 2006 - August 2015",
@@ -64,7 +64,7 @@
                 "Customer Control Panel (CodeIgniter and Laravel)",
                 "Sales Pipeline (CodeIgniter and Laravel)",
                 "Sales activities control (CodeIgniter)",
-                "Incidents Managing System for Contact Center (Symfony)",
+                "Incidents Managing System for Contact Centre (Symfony)",
                 "Automation of services life cycle (PHP)",
                 "Updates on Billing System (PHP with OO frameworks)",
                 "DNS database modelling and migration from a legacy system",
